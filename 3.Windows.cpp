@@ -4,8 +4,8 @@ using namespace cv;
 
 int main(void)
 {
-	Mat file1 = imread("sample.jpg", CV_LOAD_IMAGE_UNCHANGED);
-	Mat file2 = imread("sample.jpg", CV_LOAD_IMAGE_GRAYSCALE);
+	Mat file1 = imread("images/sample-1.jpg", CV_LOAD_IMAGE_UNCHANGED);
+	Mat file2 = imread("images/sample-1.jpg", CV_LOAD_IMAGE_GRAYSCALE);
 
 	namedWindow("Color", CV_WINDOW_AUTOSIZE);
 	namedWindow("Fixed", CV_WINDOW_AUTOSIZE);
