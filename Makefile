@@ -1,4 +1,4 @@
-NAME = 3.Windows
+NAME = 4.AccessingPixelsUsingAtMethod
 
 SRC = $(NAME).cpp
 
