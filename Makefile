@@ -1,4 +1,4 @@
-NAME = 4.AccessingPixelsUsingAtMethod
+NAME = 12.WebcamAndVideoCapture
 
 SRC = $(NAME).cpp
 
